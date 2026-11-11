@@ -1,5 +1,5 @@
 # Hey, I’m [Meesam Ali] 👋
-### Cybersecurity Engineer | AI & Security Builder | 🔴 Red teaming
+### Cybersecurity Engineer | AI & Security Builder | 🔴 Red teaming | ❄️Python | ❄️Bash | ❄️ moving to JS
 
 I’m working on cybersecurity applications and AI-powered tools. I enjoy exploring new technologies, experimenting with ideas, and building projects that help me to make more advanced and new projects
 
